@@ -1,27 +1,2 @@
-OSSライセンス深堀り勉強会　参加者各位
-(欠席の方にも送付しております）
-
-お世話になっております。
-富士通)大内です。
-
-次回のOLLライセンス深堀り勉強会は、以下の予定です。
-・日時：6/29（火）15:30-17:30
-・対象：Anaconda リポジトリの利用規約（ファイル添付）
-★いつもより開始時間が30分、遅くなりますのでご注意ください。
-
-以下、Zoomのアドレスをご連絡します。
-https://secure-web.cisco.com/1SdzjzRUfobQiFE5Xt0wy_HiWewIhrLLDerkf-PxXqbS852dJg01HO0Sg2ciF1SOJvYRn7sp0xqrooqN89fSAKjBUtMOwJR5RDRLrSW_BsiMkV6MfvT0mEJkS_4hRX-D-AK2ChtH1-PvtuWLaDCg2PeWrSIvYv8atKSMW0dNUITYQokD_nd3xcPdhkvYra2lzS7M8T-wvN_rMTZv_DI5aqhYA9wDpHRdQZis-CF8FaulCo12zzqjcBAt2K3Df1ozWcUfFR-FbtJVhDZZ10TBNoU9LAaEU_BXB8PLOXSpsZ4ExJwILE_U3JQ704aC5ZV1fpOncxXyoOmviJf5-8O_9ww/https%3A%2F%2Fzoom.us%2Fj%2F96632796269%3Fpwd%3DMXpVbU9QUzRZdXlQWGNPak4wUWt2dz09
-
-ミーティングID: 966 3279 6269
-パスコード: 860185
-
-以上、お忙しいことと存じますが、ご出席の程、
-どうぞよろしくお願い申し上げます。
--------
-富士通株式会社
-法務・知財・内部統制推進本部
-知財フロントサービス統括部
-知的財産イノベーションセンター
-大内佳子
-e-mail:ouchi.yoshiko@fujitsu.com
+ https://secure-web.cisco.com/1PBpBPRZzJiPVrYhrvXmmjKg34JSl8z3lxSqEELRj3dINpsmkOgENPwxQrrwMiagPOeX1kJZ45F0esNl24yLoHCv1BDWYSlCpXpExexag3lsBwgteZrTJied7t8GU3mQgHCoUWiCO8e3lzFBlN-QZWW0V-iH4Rkr4tYnDSmo4Jcgx0UtNwBbRxSKl8tWZGyA9YQaUtP4RHfh7z_JsRTqZ449R3oUb8lFW6O5OinkBairTAr5E9OuXrwTReDYsmuQ1YXDtG-J8zmhG5vF6zO0GNsYA1fEvLFR4i2LmM9SWXTqwl49l33DZWc8xkMEvkcl4UABWyYDiuBKXwIg3fBZAWw/https%3A%2F%2Fsocionext.zoom.us%2Fj%2F99975267803%3Fpwd%3DekhxaHA3bVZUSVU5M0dVMkF2Z0pkQT09
 
