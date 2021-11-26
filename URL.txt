@@ -1,1 +1,6 @@
-https://us06web.zoom.us/j/86341416487?pwd=QUhMTnpoMXhMcmU0dTllNDdQZXNVdz09
+# 会合の最後に触れようと思っていたのですが、次の会議が始まってしまったので触れられませんでした。
+OpenChain JWGのgithubのREADMEを以下のように書き換えようとしています。
+https://github.com/koizumistr/OpenChain-JWG/tree/sanka-draft
+教育SGの（自己）紹介文を作ってもらえませんか。(教育以外は集まりました。)
+https://openchain-project.github.io/OpenChain-JWG/subgroups/education/ の「Purpose / 目的」に書いてもらえれば
+そちらから転記しますし、このメールに返事をしてもらえれば、上の２ヶ所は私の方で更新します。
