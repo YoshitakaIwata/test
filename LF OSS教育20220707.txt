@@ -1,0 +1,13 @@
+A Beginner’s Guide to Open Source Software Development (LFD102) ←OSSを作成する開発者のための
+Open Source Licensing Basics for Software Developers (LFC191) ←OSSを作成する開発者のための
+Inclusive Open Source Community Orientation (LFC102)　←コミュニティに参加するための
+Open Source Management & Strategy(LFC202～208)　←コンプライアンスプログラム、ポリシー、体制等
+Generating a Software Bill of Materials (LFC192)　←SBOMの話
+Fundamentals of Professional Open Source Management (LFC110)　←OSSのマネージメントの話
+オープンソースのための包括的戦略（LFC103）　←包括的なオープンソースコミュニティとコードベースを
+　　　　　　　　　　　　　　　　　　　　　　　作成するための効果的な戦略
+Introduction to Open Source License Compliance Management (LFC193)　
+　　　　　　　　　　　　　　　　　　　　←コンプライアンス プログラムに必要な基本的な概念やアプローチ
+Implementing Open Source License Compliance Management (LFC194)
+　　　　　　　　　　　　　←コンプライアンス プログラムのシステムを最も効果的に構成および実装する方法
+　　　　　　　　　　　　　　　　　　　　　　
